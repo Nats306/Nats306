@@ -1,13 +1,8 @@
-<h1>Hola💗, mi nombre es ✨Natalia Mejía✨</h1>
-<br>
+# Hola💗, mi nombre es ✨Natalia Mejía✨
+Soy desarrolladora de software en progreso. Actualmente estoy estudiando ingeniería de sistemas en la EIA. 
 
-- 👋 Hi, I’m @Nats306
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+<br>
+<b>Tecnologías</b>
 
 <!---
 Nats306/Nats306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
