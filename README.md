@@ -1,4 +1,4 @@
-<h1>Hola, mi nombre es Natalia Mejía</h1>
+<h1>Hola💗, mi nombre es ✨Natalia Mejía✨</h1>
 <br>
 
 - 👋 Hi, I’m @Nats306
