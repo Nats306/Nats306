@@ -1,3 +1,6 @@
+<h1>Hola, mi nombre es Natalia Mejía</h1>
+<br>
+
 - 👋 Hi, I’m @Nats306
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ..
