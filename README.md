@@ -22,6 +22,7 @@ En desarrollo web:
 * Bootstrap
 * SQL
 * PHP
+  
 En Programación:
 * Java
 * C++
