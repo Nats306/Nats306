@@ -1,5 +1,5 @@
 # Hola💗, mi nombre es ✨Natalia Mejía✨
-- Soy desarrolladora de software en progreso. Actualmente estoy estudiando ingeniería de sistemas en la EIA. Me apasiona diseñar interfaces intuitivas, llamativas y funcionales, combinando diseño gráfico y desarollo web para lograr que mis proyectos cobren vida.
+- Soy desarrolladora de software en progreso. Actualmente estoy estudiando ingeniería de sistemas y ciencia de datos en la EIA. Me apasiona diseñar interfaces intuitivas, llamativas y funcionales, combinando diseño gráfico y desarollo web para lograr que mis proyectos cobren vida.
 - Soy una persona apasionada por mis proyectos y con una curiosidad que me permite ir más allá. Siempre busco aprender cosas nuevas, explorar diferentes herramientas y desafiarme a mí misma. 
 - Me considero una persona perfeccionista y con atención al detalle, buscando hacer las cosas con calidad y con alto estándar de excelencia.
 
@@ -26,6 +26,7 @@ En desarrollo web:
 En Programación:
 * Java
 * C++
+* Python
 
 ### Lenguajes
 - Inglés: Certificado C2
